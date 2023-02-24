@@ -2,5 +2,5 @@
 
 The first open-source browser extension wallet for Bitcoin Inscriptions
 
-[UniSat Wallet](https://unisat.io/): https://unisat.io
-
+- Website: https://unisat.io
+- Telegram: https://t.me/unisat_wallet
